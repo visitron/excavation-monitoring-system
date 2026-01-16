@@ -12,17 +12,18 @@
 
 1. [Overview](#overview)
 2. [Key Features](#key-features)
-3. [Architecture](#architecture)
-4. [Technology Stack](#technology-stack)
-5. [Quick Start](#quick-start)
-6. [Installation Guide](#installation-guide)
-7. [Configuration](#configuration)
-8. [Usage Guide](#usage-guide)
-9. [API Documentation](#api-documentation)
-10. [Advanced Features](#advanced-features)
-11. [Troubleshooting](#troubleshooting)
-12. [Contributing](#contributing)
-13. [Support & Documentation](#support--documentation)
+3. [System Screenshots](#system-screenshots)
+4. [Architecture](#architecture)
+5. [Technology Stack](#technology-stack)
+6. [Quick Start](#quick-start)
+7. [Installation Guide](#installation-guide)
+8. [Configuration](#configuration)
+9. [Usage Guide](#usage-guide)
+10. [API Documentation](#api-documentation)
+11. [Advanced Features](#advanced-features)
+12. [Troubleshooting](#troubleshooting)
+13. [Contributing](#contributing)
+14. [Support & Documentation](#support--documentation)
 
 ---
 
@@ -81,6 +82,25 @@ This system transforms mining monitoring from manual observation to **automated,
 - **Interactive Drawing Tools**: Define AOI, boundaries, and no-go zones
 - **Time-Series Charts**: Historical trend visualization
 - **Responsive Design**: Works on desktop and tablet devices
+
+---
+
+## 📸 System Screenshots
+
+### 1. Main Operational Dashboard
+![Main Operational Dashboard](./system_ss/dashboard.png)
+
+**Integrated view showing current safety violations, controls to initiate the AI analysis pipeline for change detection, and time-series excavation volume charts.**
+
+### 2. Custom Area of Interest (AOI) Interface
+![Custom AOI Interface](./system_ss/custom_aoi.png)
+
+**Toolset allowing field operators to manually define specific regions for high-intensity monitoring and satellite tasking.**
+
+### 3. Geometry Manager
+![Geometry Manager](./system_ss/geometry_manager.png)
+
+**Administrative interface for defining Legal Mining Zones (Green) and Environmental No-Go Zones (Red) with precise coordinate entry and shape modification.**
 
 ---
 
